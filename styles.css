@@ -1,0 +1,49 @@
+
+*{
+    background-image: url("tannu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #eed5d5;
+    color: rgb(48, 37, 37);
+    text-align: center;
+    padding: 20px;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.post {
+    border: 5px solid #e6d7e4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #080808;
+    color: rgb;
+    text-align: center;
+    padding: 0%;
+    position: 1px;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+    
